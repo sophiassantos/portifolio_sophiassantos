@@ -17,8 +17,8 @@ Portifólio de projetos de tecnologia - Sophia Santos
 Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na Universiade Cidade de São Paulo, atuo como Analista Junior na Geodis Gerenciamento de Fretes do Brasil, com foco em sistemas, apoiando rotinas operacionais, análise e organização de dados, além de suporte a usuários e otimização de processos internos. Possuo formação técnica em informática e conhecimentos em lógica de programação Python e Desenvolvimento web. Possuo foco na área de sistemas, desenvolvimento inteligência artifical e ERP, busco constantemente evoluir profissionalmente e adquirir novos conhecimentos na área.
 
  
-* **Habilidades Técnicas:** Lógica de programação, ython (básico), pacote office, suporte a sistemas de usuários, análise e organizaçção de dados, proc.
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
+* **Habilidades Técnicas:** Lógica de programação, python (básico), pacote office, suporte a sistemas de usuários, análise e organizaçção de dados, processos administrativos e operacionais, conhecimentos básicos ERP, fundamentos de informática.
+* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva, pensamento crítico, aprendizado rápido, organização e  adaptabilidade
 * **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
  
 ---
