@@ -1,8 +1,8 @@
 # portifolio_sophiassantos
 Portifólio de projetos de tecnologia - Sophia Santos
 
-# [Seu Nome Completo]
-> Estudante de [Nome do Curso - ex: Ciência da Computação]
+# Sophia Armond Santos
+> Estudante de Análise e Desenvolvimento de Sistemas
  
 ---
  
