@@ -39,10 +39,12 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 ---
  
 ### 📂 Portfólio de Projetos
- 
-#### 🤖 Inteligência Artificial
-|  Engenharia Reversa de Aplicação com IA | Reconstrução de um aplicativo web a partir da análise de sua interface, utilizando engenharia reversa e ferramentas de IA para replicar funcionalidades, lógica de negócio e estrutura visual sem acesso ao código-fonte original. | [Link](https://github.com/sophiassantos/CODEARMOND-Engenharia-Reversa) |
 
+#### 🤖 Inteligência Artificial
+|Engenharia Reversa | Reconstrução de um aplicativo web a partir da análise de sua interface, utilizando engenharia reversa e ferramentas de IA para replicar funcionalidades, lógica de negócio e estrutura visual sem acesso ao código-fonte original. | Link |
+| :--- | :--- | :---: |
+| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://github.com/sophiassantos/CODEARMOND-Engenharia-Reversa) |
+ 
 ---
 
 ## 📝 Descrição do Projeto
