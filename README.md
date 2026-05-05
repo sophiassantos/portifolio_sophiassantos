@@ -41,80 +41,50 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 ### 📂 Portfólio de Projetos
  
 #### 🤖 Inteligência Artificial
-| Engenharia Reversa | Aplicatico funcional reconstruido a partir da observação de sua interface externa, sem visualizar código fonte original ou fornecer o link para IA. | [Link](https://github.com/sophiassantos/CODEARMOND-Engenharia-Reversa) |
-| :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
- 
+|  Engenharia Reversa de Aplicação com IA | Reconstrução de um aplicativo web a partir da análise de sua interface, utilizando engenharia reversa e ferramentas de IA para replicar funcionalidades, lógica de negócio e estrutura visual sem acesso ao código-fonte original. | [Link](https://github.com/sophiassantos/CODEARMOND-Engenharia-Reversa) |
+
 ---
- 
-### 🏗 Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
- 
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
 
-
-Onde encontrar mais badges:
-
-https://ileriayo.github.io/markdown-badges/
-https://github.com/alexandresanlim/Badges4-README.md-Profile
-
-
-3. Modelo: README Específico (Dentro das Pastas)
-Cada projeto deve ter seu próprio README.md detalhado. Use este modelo:
-
-# 🎬 Sistema de Recomendação de Filmes
- 
 ## 📝 Descrição do Projeto
-Este projeto consiste em um motor de recomendação inteligente que utiliza técnicas de filtragem colaborativa e baseada em conteúdo. O objetivo principal é mitigar a "paralisia de escolha", oferecendo aos usuários sugestões personalizadas com base em seu histórico de visualização e preferências de gênero.
+Este projeto consiste na reconstrução de um aplicativo web a partir da análise de sua interface externa, sem acesso ao código-fonte original, utilizando técnicas de engenharia reversa assistida por inteligência artificial.
+
+O objetivo foi replicar funcionalidades, estrutura visual e lógica de negócio do sistema original com base apenas na observação do comportamento da aplicação.
  
-Desenvolvido como parte da disciplina de **Inteligência Artificial (2024.1)**, o sistema processa grandes volumes de dados (datasets de filmes e avaliações) para identificar padrões de comportamento e similaridades entre títulos, utilizando algoritmos de aprendizado de máquina para prever a nota que um usuário daria a um filme ainda não assistido.
- 
-http://googleusercontent.com/image_generation_content/0
-*Figura 1: Dashboard principal do sistema exibindo recomendações personalizadas.*
- 
+## ⚙️ Metodologia
+
+**1. Análise da Aplicação**
+- Exploração do sistema original
+- Identificação de componentes visuais e fluxos
+- Mapeamento da lógica de funcionamento
+
+**2. Configuração da IA**
+- Definição de instruções no Google AI Studio (Gemini)
+- Especificação do papel como desenvolvedor Full-Stack
+- Estruturação dos arquivos (HTML, CSS e JavaScript)
+
+**3. Construção e Validação**
+- Geração do código com auxílio de IA
+- Testes em ambiente de execução
+- Ajustes iterativos até alcançar comportamento semelhante ao original
+
 ## 🚀 Tecnologias Utilizadas
-* **Linguagem:** Python 3.10
-* **Bibliotecas:** Pandas, Scikit-learn, Matplotlib
-* **Ferramentas:** Jupyter Notebook, Google Colab
- 
-## 📊 Resultados e Aprendizados
-O projeto alcançou resultados sólidos em ambiente de teste, demonstrando a eficácia do modelo híbrido.
-* **O modelo atingiu 92% de acurácia** nos testes de validação.
-* **Redução de Ruído:** Aprendi a aplicar técnicas de limpeza e normalização de dados para melhorar a performance dos algoritmos.
-* **Visualização de Clusters:** Implementei gráficos que mostram como o sistema agrupa filmes por afinidade.
- 
-![Gráfico de Performance e Métricas](IMAGEM_2_AQUI)
-*Figura 2: Análise métrica do desempenho do modelo.*
- 
-## 🔧 Como Executar
-1. Clone o repositório.
-2. Instale as dependências: `pip install -r requirements.txt`.
-3. Execute o comando: `python main.py`.
- 
-![Demonstração do Fluxo de Dados](IMAGEM_3_AQUI)
-*Figura 3: Representação visual do pipeline de dados.*
- 
----
-[Voltar ao início](https://github.com/seu-usuario/seu-usuario)
+- HTML, CSS e JavaScript  
+- Ferramentas de Inteligência Artificial (Google AI Studio / Gemini)  
+- Engenharia de Software  
 
+## 📊 Aprendizados
+- Desenvolvimento orientado por descrição lógica (prompt engineering)  
+- Interpretação de interfaces e regras de negócio  
+- Uso de IA como ferramenta de desenvolvimento  
+- Validação e refinamento iterativo de software  
 
-4. Estrutura de Pastas Esperada
-Para que o portfólio seja organizado, o aluno deve manter a seguinte hierarquia no GitHub:
+## ⚖️ Reflexão
 
-.
-├── README.md (Principal)
-├── .github/ (Opcional: para imagens e assets)
-├── modelagem-banco-dados-01/
-│   ├── script_criacao.sql
-│   ├── diagrama_er.png
-│   └── README.md (Específico do projeto)
-└── inteligencia-artificial-01/
-    ├── notebook_analise.ipynb
-    ├── dataset.csv
-    └── README.md (Específico do projeto)
-5. Inspirações
-https://github.com/DenverCoder1
-https://github.com/elangosundar 
-https://github.com/anuraghazra 
-https://github.com/yslnam/data-science-portfolio 
+A utilização de IA no desenvolvimento exige novas competências, como pensamento crítico, capacidade de descrever soluções de forma clara e validação de resultados gerados automaticamente.
+
+Além disso, levanta discussões sobre ética e originalidade, sendo essencial utilizar essas ferramentas de forma responsável, respeitando direitos autorais e promovendo a inovação.
+
+## 🔧 Como visualizar
+1. Acesse o repositório  
+2. Explore os arquivos gerados  
+3. Execute o projeto em um navegador  
