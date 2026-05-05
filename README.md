@@ -1,4 +1,4 @@
-# portifolio_sophia-armond-santos
+# portifolio-sophia-armond-santos
 Portifólio de projetos de tecnologia - Sophia Santos
 
 # Sophia Armond Santos
