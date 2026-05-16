@@ -15,7 +15,6 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
  
 * **Habilidades Técnicas:** Informática, Lógica de programação, Pacote office, ERP, Python, Java, HTML, CSS e MySQL.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva, pensamento crítico, organização e  adaptabilidade.
-* **Experiência/Projetos Relevantes:** Participei de um projeto de migração de usuários para o ambiente de Active Directory (AD) da matriz na França, contribuindo com o processo de padronização e centralização de acessos da empresa em nível global. Atuei no suporte à migração de contas, auxiliando na organização de dados dos usuários, validação de informações e acompanhamento do processo de transição para o novo domínio. Também prestei suporte aos usuários durante a mudança, ajudando na adaptação ao novo ambiente e na resolução de possíveis dificuldades de acesso.
   
 ---
  
