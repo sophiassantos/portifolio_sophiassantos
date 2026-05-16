@@ -83,7 +83,7 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 <tr>
 <td><b>SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi</b></td>
 <td>Desenvolvimento de um aplicativo de videoconferência utilizando Manus AI e a plataforma Jitsi.</td>
-<td><a href="#">Ver Projeto</a></td>
+<td><a href="https://github.com/sophiassantos/app-video-conferencia">Ver Projeto</a></td>
 </tr>
 
 <tr>
