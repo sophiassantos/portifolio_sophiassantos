@@ -11,11 +11,10 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na Universiade Cidade de São Paulo, atuo como Analista Junior na Geodis Gerenciamento de Fretes do Brasil, com foco em sistemas, apoiando rotinas operacionais, análise e organização de dados, além de suporte a usuários e otimização de processos internos. Possuo formação técnica em informática e conhecimentos em lógica de programação Python e Desenvolvimento web. Possuo foco na área de sistemas, desenvolvimento inteligência artifical e ERP, busco constantemente evoluir profissionalmente e adquirir novos conhecimentos na área.
-
+Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na Universiade Cidade de São Paulo, atuo como Analista Junior na Geodis Gerenciamento de Fretes do Brasil, com foco em sistemas, apoiando rotinas operacionais, análise e organização de dados, além de suporte a usuários e otimização de processos internos.
  
-* **Habilidades Técnicas:** Lógica de programação, python (básico), pacote office, suporte a sistemas de usuários, análise e organizaçção de dados, processos administrativos e operacionais, conhecimentos básicos ERP, fundamentos de informática.
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva, pensamento crítico, aprendizado rápido, organização e  adaptabilidade
+* **Habilidades Técnicas:** Informática, Lógica de programação, Pacote office, ERP, Python, Java, HTML, CSS e MySQL.
+* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva, pensamento crítico, organização e  adaptabilidade.
 * **Experiência/Projetos Relevantes:** Participei de um projeto de migração de usuários para o ambiente de Active Directory (AD) da matriz na França, contribuindo com o processo de padronização e centralização de acessos da empresa em nível global. Atuei no suporte à migração de contas, auxiliando na organização de dados dos usuários, validação de informações e acompanhamento do processo de transição para o novo domínio. Também prestei suporte aos usuários durante a mudança, ajudando na adaptação ao novo ambiente e na resolução de possíveis dificuldades de acesso.
   
 ---
