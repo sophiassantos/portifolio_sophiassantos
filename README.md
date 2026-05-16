@@ -1,6 +1,3 @@
-# portfólio-sophia-armond-santos
-Portifólio de projetos de tecnologia - Sophia Santos
-
 # Sophia Armond Santos
 > Estudante de Análise e Desenvolvimento de Sistemas
  
