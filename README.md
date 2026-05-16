@@ -69,7 +69,7 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 </tr>
 
 <tr>
-<td><b>SM5 - Do Clone ao MVP+</b></td>
+<td><b>SM5 -  Do Clone ao Produto Mínimo Viável (MVP+)</b></td>
 <td>Desenvolvimento de um produto digital, iniciando com um clone e avançando até um MVP viável.</td>
 <td><a href="#">Ver Projeto</a></td>
 </tr>
