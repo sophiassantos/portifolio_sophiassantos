@@ -30,7 +30,7 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 #### 🗄️ Banco de Dados
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
  
-#### 🤖 Inteligência de Negócios
+#### 🤖 Inteligência de Dados
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
  
 ---
