@@ -65,7 +65,7 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 <tr>
 <td><b>SM4 - Engenharia Reversa</b></td>
 <td>Estudo e documentação reversa de sistemas e fluxos de software.</td>
-<td><a href="#">Ver Projeto</a></td>
+<td><a href="https://github.com/seunome/projeto">Ver Projeto</a></td>
 </tr>
 
 <tr>
