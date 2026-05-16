@@ -9,8 +9,8 @@
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://docs.google.com/document/d/1rG9aX2oDb5SpqJRtTQ2TXCoHCQhAgykksyenWDFKpHw/edit?usp=sharing)
  
 ---
- 
-### 👨‍💻 Sobre
+
+### 👩‍💻 Sobre
 Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na Universiade Cidade de São Paulo, atuo como Analista Junior na Geodis Gerenciamento de Fretes do Brasil, com foco em sistemas, apoiando rotinas operacionais, análise e organização de dados, além de suporte a usuários e otimização de processos internos.
  
 * **Habilidades Técnicas:** Informática, Lógica de programação, Pacote office, ERP, Python, Java, HTML, CSS e MySQL.
